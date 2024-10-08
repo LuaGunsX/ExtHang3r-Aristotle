@@ -13,3 +13,8 @@ data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG
 ```
 ### Loading from local offline .html file
 You can download index.html (from this repository). Once you downloaded it, open the Files app, navigate your way to Downloads, then double click index.html or drag index.html in the URL bar.
+
+## What are the new enhancements?
+There are many new enhancements in this version, such as:
+* More extension IDs
+* Using zero width spaces to bypass word restrictions (such as "unblock" being blocked)
