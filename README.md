@@ -17,4 +17,5 @@ You can download index.html (from this repository). Once you downloaded it, open
 ## What are the new enhancements?
 There are many new enhancements in this version, such as:
 * More extension IDs
-* Using zero width spaces to bypass word restrictions (such as "unblock" being blocked)
+* Using zero width spaces to bypass word restrictions (such as "unblock" being blocked) (soon)
+* A randomly generated game to play while you wait, such as Pac-Man or Snake (soon)
