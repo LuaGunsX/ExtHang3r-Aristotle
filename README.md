@@ -30,7 +30,9 @@ This exploit works very similar to <b>Dextensify</b>. The main difference being 
 * IMTLazarus
 * Impero Backdrop
 * Mobile Guardian
+
 And extensions in this newer version such as:
+
 * Aristotle Student
 
 ## How do I use it?
